@@ -76,12 +76,12 @@
 
 <br/>
 
-### 📊 GitHub Stats
 
-<div align="center">
+
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Cursed-Coder777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cursed-Coder777&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cursed-Coder777&theme=tokyonight&hide_border=true" width="85%"/>
