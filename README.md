@@ -107,7 +107,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cursed-Coder777/Cursed-Coder777/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>⚙️ Auto-generated daily by GitHub Actions — see setup instructions in the accompanying <code>snake.yml</code> file</sub>
 
 </div>
 
