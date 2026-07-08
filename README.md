@@ -66,7 +66,7 @@
 | 🥤 **Fizzi** | 3D soda landing page using a shared-canvas View Portal pattern | Next.js · R3F · Prismic | [Visit ↗](https://fizzi-phi-eight.vercel.app/) |
 | 🎮 **XTYNCT** | Cyberpunk brand showcase with clip-path morphing animations | Next.js · GSAP · Lenis | [Visit ↗](https://game-zone-eosin.vercel.app/) |
 | 🧵 **Seraph Kamos** | Scroll storytelling site with GSAP Flip element morphing | Next.js · GSAP Flip · Lenis | [Visit ↗](https://seraph-kamos.vercel.app/) |
-| 🍸 **Cocktails** | Premium brand landing page with a parallax video hero | React · Vite · GSAP | [Visit ↗](https://cocktails-ui-two.vercel.app/) |
+
 
 <div align="center">
 
