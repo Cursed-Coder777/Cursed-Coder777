@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D1A,100:5234C9&height=220&section=header&text=Muhammad%20Ansab&fontSize=46&fontColor=E8E0FF&animation=fadeIn&fontAlignY=35&desc=3D%20Web%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20T3%20Stack%20Developer&descAlignY=55&descSize=18&descColor=C9A6FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D1A,100:5234C9&height=220&section=header&text=Cursed%20Coder&fontSize=46&fontColor=E8E0FF&animation=fadeIn&fontAlignY=35&desc=3D%20Web%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20T3%20Stack%20Developer&descAlignY=55&descSize=18&descColor=C9A6FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=C44FC4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ansab+%F0%9F%91%8B;I+build+cinematic%2C+scroll-driven+web+experiences;3D%2FWebGL+%7C+Full-Stack+%7C+T3+Stack;Next.js+%C2%B7+Three.js+%C2%B7+tRPC+%C2%B7+GSAP" alt="Typing SVG" />
 
